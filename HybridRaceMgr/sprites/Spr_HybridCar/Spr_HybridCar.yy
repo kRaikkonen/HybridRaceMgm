@@ -2,7 +2,7 @@
     "id": "54614eb7-ecbd-4dbe-9c91-6a352716c24a",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Spr_HybridCar",
+    "name": "spr_HybridCar",
     "For3D": false,
     "HTile": false,
     "VTile": false,

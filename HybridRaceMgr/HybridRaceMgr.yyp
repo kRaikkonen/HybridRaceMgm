@@ -2,7 +2,7 @@
     "id": "40f7617b-5098-450f-a3ac-7d54de26d955",
     "modelName": "GMProject",
     "mvc": "1.0",
-    "IsDnDProject": true,
+    "IsDnDProject": false,
     "configs": [
         
     ],
@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1e86168c-fc40-4bc1-ac78-67bdee3bebef",
+            "Value": {
+                "id": "88939d19-a841-4d03-bff0-1dd0017eeea7",
+                "resourcePath": "objects\\obj_HybridCar\\obj_HybridCar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1eec78e7-acf2-421d-ad8d-5d59ba03033c",
             "Value": {
                 "id": "813e5a54-f700-4291-a226-9b8957047090",
@@ -50,7 +58,7 @@
             "Key": "22299791-b2ef-4408-8c3e-e23ef089f79c",
             "Value": {
                 "id": "da4d18a1-254b-438b-af0e-6cd44b72659e",
-                "resourcePath": "rooms\/TitleRoom\/TitleRoom.yy",
+                "resourcePath": "rooms\\rm_start\\rm_start.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -98,7 +106,7 @@
             "Key": "54614eb7-ecbd-4dbe-9c91-6a352716c24a",
             "Value": {
                 "id": "cfa55c62-becf-45f4-95a5-c15cc34a1b7f",
-                "resourcePath": "sprites\/Spr_HybridCar\/Spr_HybridCar.yy",
+                "resourcePath": "sprites\\spr_HybridCar\\spr_HybridCar.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -106,7 +114,7 @@
             "Key": "54d85c7e-b9e1-4321-8232-178418d7b66e",
             "Value": {
                 "id": "05482086-eabb-450f-96ee-869f10dc15da",
-                "resourcePath": "sprites\/Spr_title\/Spr_title.yy",
+                "resourcePath": "sprites\\spr_title\\spr_title.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -114,7 +122,7 @@
             "Key": "66514506-f292-4fa5-b6bc-2c25ca43f693",
             "Value": {
                 "id": "e66cbd98-e0b4-41d1-a007-b7d06d7036a5",
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\\rm_game\\rm_game.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -122,7 +130,7 @@
             "Key": "687ad9c1-909d-44ea-89fc-230091dc478e",
             "Value": {
                 "id": "945cf078-48bc-4edf-9c1d-aa2b2f401046",
-                "resourcePath": "sprites\/Spr_PetrolCar\/Spr_PetrolCar.yy",
+                "resourcePath": "sprites\\spr_PetrolCar\\spr_PetrolCar.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -130,7 +138,7 @@
             "Key": "7469e742-efe1-4d73-ab7c-90cef9409a7d",
             "Value": {
                 "id": "4396dbca-aa19-4996-ac9b-5b6f29c26abc",
-                "resourcePath": "sprites\/Spr_Eletric\/Spr_Eletric.yy",
+                "resourcePath": "sprites\\spr_Eletric\\spr_Eletric.yy",
                 "resourceType": "GMSprite"
             }
         },

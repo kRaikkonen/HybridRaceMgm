@@ -2,7 +2,7 @@
     "id": "7469e742-efe1-4d73-ab7c-90cef9409a7d",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Spr_Eletric",
+    "name": "spr_Eletric",
     "For3D": false,
     "HTile": false,
     "VTile": false,

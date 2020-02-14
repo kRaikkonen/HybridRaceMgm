@@ -2,7 +2,7 @@
     "id": "687ad9c1-909d-44ea-89fc-230091dc478e",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Spr_PetrolCar",
+    "name": "spr_PetrolCar",
     "For3D": false,
     "HTile": false,
     "VTile": false,

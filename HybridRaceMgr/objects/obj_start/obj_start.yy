@@ -1,21 +1,21 @@
 {
-    "id": "1e86168c-fc40-4bc1-ac78-67bdee3bebef",
+    "id": "8dfdbcc3-8c0e-43ef-8bb9-ffb7caa47679",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_HybridCar",
+    "name": "obj_start",
     "eventList": [
         {
-            "id": "231e6c0f-5535-4a7f-9ac3-3f0e7bc75083",
+            "id": "5bb5c0cc-7a07-49f1-91db-ed6b8c1c5ff8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "1e86168c-fc40-4bc1-ac78-67bdee3bebef"
+            "enumb": 13,
+            "eventtype": 9,
+            "m_owner": "8dfdbcc3-8c0e-43ef-8bb9-ffb7caa47679"
         }
     ],
-    "maskSpriteId": "54614eb7-ecbd-4dbe-9c91-6a352716c24a",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "54614eb7-ecbd-4dbe-9c91-6a352716c24a",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

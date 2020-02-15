@@ -1,21 +1,12 @@
 {
-    "id": "1e86168c-fc40-4bc1-ac78-67bdee3bebef",
+    "id": "eef84d2b-e01b-4682-b2d9-308f9832a349",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_HybridCar",
+    "name": "obj_raceTrack",
     "eventList": [
-        {
-            "id": "231e6c0f-5535-4a7f-9ac3-3f0e7bc75083",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "1e86168c-fc40-4bc1-ac78-67bdee3bebef"
-        }
+        
     ],
-    "maskSpriteId": "54614eb7-ecbd-4dbe-9c91-6a352716c24a",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "54614eb7-ecbd-4dbe-9c91-6a352716c24a",
+    "spriteId": "332ce2b8-5624-40b3-808d-d58af3fa9f16",
     "visible": true
 }

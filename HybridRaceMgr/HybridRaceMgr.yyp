@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "207e651a-c12d-4a3e-8c4a-1834dd51cd7e",
+            "Value": {
+                "id": "b171513e-acd4-419a-9c1c-f7e423ed2e57",
+                "resourcePath": "sprites\\spr_GreenPetrolCar\\spr_GreenPetrolCar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "22299791-b2ef-4408-8c3e-e23ef089f79c",
             "Value": {
                 "id": "da4d18a1-254b-438b-af0e-6cd44b72659e",
@@ -76,6 +84,14 @@
                 "id": "9c31960f-ac56-4d27-b33d-2eabf87c4b71",
                 "resourcePath": "views\/2865fa31-565a-4588-b552-121fddf7fab0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2940ecaf-b2b9-4172-b8a5-ca5332e65674",
+            "Value": {
+                "id": "49c9bc43-79cc-42a4-a274-a34faabdc044",
+                "resourcePath": "sprites\\spr_BlueElectricCar\\spr_BlueElectricCar.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -124,6 +140,14 @@
                 "id": "b7497c8e-a3dc-455a-9517-dcb93e45ca28",
                 "resourcePath": "views\/49e829af-4c6b-403d-ae60-3ac4fb50f234.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4dde35e6-11d7-4f1f-b331-67a6d3b00e5b",
+            "Value": {
+                "id": "fcb82d5e-8656-4778-9b0c-3915b4e930ba",
+                "resourcePath": "sprites\\spr_TempEZBoard\\spr_TempEZBoard.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -300,6 +324,14 @@
                 "id": "7887674d-3ce0-44c6-b066-9adcd150820b",
                 "resourcePath": "views\/d81fb408-b55d-43f0-aefa-08a589267138.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e8874306-ff6b-4552-ad1c-4034658c0b64",
+            "Value": {
+                "id": "7ae0c127-5915-406a-a541-872a61e300c2",
+                "resourcePath": "sprites\\spr_RedHybridCar\\spr_RedHybridCar.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

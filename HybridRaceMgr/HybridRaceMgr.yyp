@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "919ec2a2-da65-4f69-ae6d-880cef4219cb",
+            "Value": {
+                "id": "c16aaa97-4917-4759-9d1d-0955c4bcc91a",
+                "resourcePath": "sprites\\spr_timeboard_nameboard\\spr_timeboard_nameboard.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9dbdcc07-4d20-49c1-8f9c-a10a1935857a",
             "Value": {
                 "id": "9f79ff58-104e-4a60-98b2-b239e66fccd7",

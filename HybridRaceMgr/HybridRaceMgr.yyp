@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "895f8e13-6db9-45a7-bf9b-feeb1a77507d",
+            "Value": {
+                "id": "d36cc75e-85f8-44d7-8809-aa4879063e3f",
+                "resourcePath": "sprites\\spr_RedHybridCar_npc\\spr_RedHybridCar_npc.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8dfdbcc3-8c0e-43ef-8bb9-ffb7caa47679",
             "Value": {
                 "id": "f382ca19-648d-47e7-8d3a-e3f87bc49985",
@@ -380,6 +388,14 @@
                 "id": "7887674d-3ce0-44c6-b066-9adcd150820b",
                 "resourcePath": "views\/d81fb408-b55d-43f0-aefa-08a589267138.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e3db1099-d9e8-453b-a402-cc9b71a58fa6",
+            "Value": {
+                "id": "b444c5c6-912c-4054-bae1-0b49eecc4286",
+                "resourcePath": "objects\\obj_Hnpc\\obj_Hnpc.yy",
+                "resourceType": "GMObject"
             }
         },
         {

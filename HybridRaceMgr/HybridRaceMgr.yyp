@@ -143,11 +143,27 @@
             }
         },
         {
+            "Key": "356ffa0d-cef8-400b-9500-d220deddc55e",
+            "Value": {
+                "id": "1ccbb684-1681-4627-8f6d-a3b891d2097d",
+                "resourcePath": "objects\\obj_button_timeboard\\obj_button_timeboard.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3efb0a31-4ab7-4358-9edd-4f28a82e50bd",
             "Value": {
                 "id": "eaa598e2-7e31-4d5a-8e0d-76eab1135110",
                 "resourcePath": "views\/3efb0a31-4ab7-4358-9edd-4f28a82e50bd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3f9e18c8-f254-4cf8-8e7e-13c8b31f3bce",
+            "Value": {
+                "id": "a82f88fb-899c-4d74-a05a-967037940f7a",
+                "resourcePath": "objects\\obj_Pnpc\\obj_Pnpc.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -199,10 +215,26 @@
             }
         },
         {
+            "Key": "648782cb-8970-4fac-928b-52afffb32a9b",
+            "Value": {
+                "id": "3f51460d-d82d-448b-a5e4-5e5474c63a94",
+                "resourcePath": "sprites\\spr_GreenPetrolCar_npc\\spr_GreenPetrolCar_npc.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "687ad9c1-909d-44ea-89fc-230091dc478e",
             "Value": {
                 "id": "945cf078-48bc-4edf-9c1d-aa2b2f401046",
                 "resourcePath": "sprites\\spr_PetrolCar\\spr_PetrolCar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "725a7d31-92c5-457b-b1b1-1ba099808b22",
+            "Value": {
+                "id": "2b0815fe-d203-4595-84ec-560ca0ca2239",
+                "resourcePath": "sprites\\spr_BlueElectric_npc\\spr_BlueElectric_npc.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -279,19 +311,19 @@
             }
         },
         {
-            "Key": "916186dd-40e5-40ae-87ad-7e27304dbe90",
-            "Value": {
-                "id": "a8116b4a-8782-4bd1-ba11-e69ae915765c",
-                "resourcePath": "paths\\path_test\\path_test.yy",
-                "resourceType": "GMPath"
-            }
-        },
-        {
             "Key": "919ec2a2-da65-4f69-ae6d-880cef4219cb",
             "Value": {
                 "id": "c16aaa97-4917-4759-9d1d-0955c4bcc91a",
                 "resourcePath": "sprites\\spr_timeboard_nameboard\\spr_timeboard_nameboard.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "97eb6c40-08bd-4e68-9de8-73f1aef7d040",
+            "Value": {
+                "id": "67cebbf5-f190-4ffe-9584-9b3f075766fb",
+                "resourcePath": "objects\\obj_timeboard\\obj_timeboard.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -306,7 +338,7 @@
             "Key": "a4a27e27-a9e9-4699-87c8-10f221ac5a73",
             "Value": {
                 "id": "f8cfbffa-e360-4647-af1d-2fb7b2033a20",
-                "resourcePath": "objects\\obj_button\\obj_button.yy",
+                "resourcePath": "objects\\obj_button_start\\obj_button_start.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -335,6 +367,14 @@
             }
         },
         {
+            "Key": "b8c78957-6e96-40d0-bfe9-a089071c6d0a",
+            "Value": {
+                "id": "51e091c2-e741-4fb9-ad79-551d20d56b7e",
+                "resourcePath": "paths\\path_npc\\path_npc.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "c95f98f0-6d60-45ca-8831-3dbb5ec901ef",
             "Value": {
                 "id": "4ade2389-9cab-48a4-8568-8c50dc65c2c9",
@@ -356,6 +396,14 @@
                 "id": "15160785-1524-4bbf-9f4e-e86aed552f6c",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d16bff6a-b856-4d2d-a777-752bd1d4331b",
+            "Value": {
+                "id": "278b279f-2a9b-4e16-9763-7ba63003df4e",
+                "resourcePath": "objects\\obj_Enpc\\obj_Enpc.yy",
+                "resourceType": "GMObject"
             }
         },
         {

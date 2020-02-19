@@ -47,10 +47,10 @@
             }
         },
         {
-            "Key": "1e86168c-fc40-4bc1-ac78-67bdee3bebef",
+            "Key": "1c12c527-95f4-4d13-895e-0bdc20d4e193",
             "Value": {
-                "id": "88939d19-a841-4d03-bff0-1dd0017eeea7",
-                "resourcePath": "objects\\obj_HybridCar\\obj_HybridCar.yy",
+                "id": "115859b4-d20a-4f14-b241-88326d5dd1b3",
+                "resourcePath": "objects\\obj_hybridButton\\obj_hybridButton.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -76,6 +76,14 @@
                 "id": "da4d18a1-254b-438b-af0e-6cd44b72659e",
                 "resourcePath": "rooms\\rm_start\\rm_start.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "24ef6439-3f36-4a4d-81ef-1447dafb9eab",
+            "Value": {
+                "id": "647caa09-4b64-4a7e-abc4-5425bffaebea",
+                "resourcePath": "objects\\obj_petrolButton\\obj_petrolButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "7bcb3575-be96-4d04-b15a-62df67bf9e6d",
+            "Value": {
+                "id": "5db1f37b-c241-41b4-a07d-7ab949107ea0",
+                "resourcePath": "objects\\obj_blueE\\obj_blueE.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7d213c90-7bed-49bc-991e-55de3597625c",
             "Value": {
                 "id": "72705efa-ae98-407b-a337-7cba3d8edf2e",
@@ -335,6 +351,14 @@
             }
         },
         {
+            "Key": "d27b9c06-25bc-4dc3-8ce5-4afea7aadc9a",
+            "Value": {
+                "id": "d2454a17-caa4-43c8-94ad-0f37021ddfa7",
+                "resourcePath": "objects\\obj_greenP\\obj_greenP.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d2a9536f-e116-4e38-8f27-bf5de416baa0",
             "Value": {
                 "id": "5c7bcbdf-9256-45ef-a51d-5cc4b8787757",
@@ -380,6 +404,14 @@
                 "id": "a7ac9c7a-04fc-40e8-8906-284ed22cabab",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f80aa435-7cf6-42a3-8ba9-2373fd3f2a3d",
+            "Value": {
+                "id": "cb3d8dd2-3921-4fec-a6f0-7b58afdac469",
+                "resourcePath": "objects\\obj_eletricButton\\obj_eletricButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {

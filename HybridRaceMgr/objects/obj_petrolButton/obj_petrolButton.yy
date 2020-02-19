@@ -1,28 +1,18 @@
 {
-    "id": "2968dc01-2b21-419e-affe-3f7aa95e3497",
+    "id": "24ef6439-3f36-4a4d-81ef-1447dafb9eab",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_redH",
+    "name": "obj_petrolButton",
     "eventList": [
         {
-            "id": "cc76ab51-d89f-4f68-8ccb-9a6fa3e71f58",
+            "id": "e31b04c2-37db-4850-8935-39cf9955314c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "2968dc01-2b21-419e-affe-3f7aa95e3497"
-        },
-        {
-            "id": "dfe08ac4-402d-47bc-82d6-df8dcfecaefa",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "2968dc01-2b21-419e-affe-3f7aa95e3497"
+            "enumb": 7,
+            "eventtype": 6,
+            "m_owner": "24ef6439-3f36-4a4d-81ef-1447dafb9eab"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e8874306-ff6b-4552-ad1c-4034658c0b64",
+    "spriteId": "31278ec5-63da-4ace-9e2e-34c758d9cb45",
     "visible": true
 }

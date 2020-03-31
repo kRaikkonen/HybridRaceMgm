@@ -34,7 +34,7 @@
             "Key": "10dbd9d8-8ff7-4e37-9a51-ad4fa53e9fa9",
             "Value": {
                 "id": "5ba9a9c8-b8b8-4e2b-b650-8b53de103508",
-                "resourcePath": "sprites\\spr_button\\spr_button.yy",
+                "resourcePath": "sprites\\spr_StartButton\\spr_StartButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -52,6 +52,14 @@
                 "id": "115859b4-d20a-4f14-b241-88326d5dd1b3",
                 "resourcePath": "objects\\obj_hybridButton\\obj_hybridButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1c378cc2-a2a9-4ee7-a4fd-87821ef3c44e",
+            "Value": {
+                "id": "8358d3cd-dfae-4a8b-a7e5-02e6b0b8f149",
+                "resourcePath": "sprites\\spr_clock\\spr_clock.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "5304d073-5207-4abd-82d6-97ff4a021da4",
+            "Value": {
+                "id": "e211a03e-05d4-4dce-9d67-195b0b7ee0ba",
+                "resourcePath": "sprites\\spr_HybriEngineUpgradeIcon\\spr_HybriEngineUpgradeIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "54614eb7-ecbd-4dbe-9c91-6a352716c24a",
             "Value": {
                 "id": "cfa55c62-becf-45f4-95a5-c15cc34a1b7f",
@@ -227,6 +243,14 @@
             "Value": {
                 "id": "945cf078-48bc-4edf-9c1d-aa2b2f401046",
                 "resourcePath": "sprites\\spr_PetrolCar\\spr_PetrolCar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6b48db7a-e15d-44f2-b905-438e95b03815",
+            "Value": {
+                "id": "6ae1710a-9583-428c-b4a7-4b239fa0c8c8",
+                "resourcePath": "sprites\\spr_UpgradeButton\\spr_UpgradeButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -335,6 +359,14 @@
             }
         },
         {
+            "Key": "9f32c527-8563-4f6f-83eb-4f99180202bb",
+            "Value": {
+                "id": "cd52b0a8-caa6-4851-a811-eea15ec4c5c7",
+                "resourcePath": "sprites\\spr_nightRace_spa\\spr_nightRace_spa.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a4a27e27-a9e9-4699-87c8-10f221ac5a73",
             "Value": {
                 "id": "f8cfbffa-e360-4647-af1d-2fb7b2033a20",
@@ -372,6 +404,14 @@
                 "id": "51e091c2-e741-4fb9-ad79-551d20d56b7e",
                 "resourcePath": "paths\\path_npc\\path_npc.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "c2b6545b-75e7-477d-9455-c5be05ab84f9",
+            "Value": {
+                "id": "94b7ddbb-b611-4a04-b41c-e36e7041c485",
+                "resourcePath": "sprites\\spr_ElectricMotorUpgradeIcon\\spr_ElectricMotorUpgradeIcon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

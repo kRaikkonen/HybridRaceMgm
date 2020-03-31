@@ -1,19 +1,10 @@
 {
-    "id": "356ffa0d-cef8-400b-9500-d220deddc55e",
+    "id": "5b629af3-9eb5-4d7c-a746-403d79db00a4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_button_timeboard",
+    "name": "obj_upgradeButton",
     "eventList": [
-        {
-            "id": "a7c0a2c2-0da9-4019-a46b-6e3939a8bd8b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "356ffa0d-cef8-400b-9500-d220deddc55e"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1c378cc2-a2a9-4ee7-a4fd-87821ef3c44e",
+    "spriteId": "6b48db7a-e15d-44f2-b905-438e95b03815",
     "visible": true
 }

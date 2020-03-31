@@ -1,19 +1,10 @@
 {
-    "id": "356ffa0d-cef8-400b-9500-d220deddc55e",
+    "id": "043365a2-3e78-475b-968c-5d7c12d166f3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_button_timeboard",
+    "name": "obj_nightTrack",
     "eventList": [
-        {
-            "id": "a7c0a2c2-0da9-4019-a46b-6e3939a8bd8b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "356ffa0d-cef8-400b-9500-d220deddc55e"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1c378cc2-a2a9-4ee7-a4fd-87821ef3c44e",
+    "spriteId": "9f32c527-8563-4f6f-83eb-4f99180202bb",
     "visible": true
 }

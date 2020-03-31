@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "043365a2-3e78-475b-968c-5d7c12d166f3",
+            "Value": {
+                "id": "9bd4e3eb-2828-41b3-8f90-e7323c0b25d7",
+                "resourcePath": "objects\\obj_nightTrack\\obj_nightTrack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "10dbd9d8-8ff7-4e37-9a51-ad4fa53e9fa9",
             "Value": {
                 "id": "5ba9a9c8-b8b8-4e2b-b650-8b53de103508",
@@ -71,6 +79,14 @@
             }
         },
         {
+            "Key": "1fd16680-eb24-4332-b04a-a2d21817b964",
+            "Value": {
+                "id": "8a0041a6-da67-4c7b-9b10-2985b275be56",
+                "resourcePath": "sprites\\spr_newUpgradePoint\\spr_newUpgradePoint.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "207e651a-c12d-4a3e-8c4a-1834dd51cd7e",
             "Value": {
                 "id": "b171513e-acd4-419a-9c1c-f7e423ed2e57",
@@ -92,6 +108,14 @@
                 "id": "647caa09-4b64-4a7e-abc4-5425bffaebea",
                 "resourcePath": "objects\\obj_petrolButton\\obj_petrolButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2711eeb3-357c-4777-a166-0259eb8cd42f",
+            "Value": {
+                "id": "ea2aae18-d9ef-4480-8904-f2adb0315fda",
+                "resourcePath": "sprites\\spr_battery\\spr_battery.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -183,6 +207,14 @@
             }
         },
         {
+            "Key": "47087bd3-91fc-4564-a87e-427ec44a0f6b",
+            "Value": {
+                "id": "fcdd8a7e-b1dc-4327-bc44-f7fc3dfb40bf",
+                "resourcePath": "objects\\obj_upgradeAObj\\obj_upgradeAObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "49e829af-4c6b-403d-ae60-3ac4fb50f234",
             "Value": {
                 "id": "b7497c8e-a3dc-455a-9517-dcb93e45ca28",
@@ -220,6 +252,14 @@
                 "id": "64e94959-5a28-4119-b798-5f9f5f33bc72",
                 "resourcePath": "sprites\\spr_board\\spr_board.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5b629af3-9eb5-4d7c-a746-403d79db00a4",
+            "Value": {
+                "id": "accb0a6d-b319-4545-9f88-d06510f71e70",
+                "resourcePath": "objects\\obj_upgradeButton\\obj_upgradeButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -343,6 +383,22 @@
             }
         },
         {
+            "Key": "927dfacd-bfaa-4414-a13f-c10ac5e9e5b2",
+            "Value": {
+                "id": "7b8d7849-7c06-4a23-99b4-09710a27ac40",
+                "resourcePath": "sprites\\spr_crashIcon\\spr_crashIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "95abe838-b542-4abb-8044-a68647a458c5",
+            "Value": {
+                "id": "9fbbf719-d249-42db-a10c-fcc24db9c689",
+                "resourcePath": "sprites\\spr_upgrade_board\\spr_upgrade_board.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "97eb6c40-08bd-4e68-9de8-73f1aef7d040",
             "Value": {
                 "id": "67cebbf5-f190-4ffe-9584-9b3f075766fb",
@@ -356,6 +412,14 @@
                 "id": "9f79ff58-104e-4a60-98b2-b239e66fccd7",
                 "resourcePath": "views\/9dbdcc07-4d20-49c1-8f9c-a10a1935857a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9e24adb5-9024-4258-b50c-63dd5975baf9",
+            "Value": {
+                "id": "6b20713c-3148-4c10-b55d-c07f7c74f147",
+                "resourcePath": "sprites\\spr_fueConsump\\spr_fueConsump.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -404,6 +468,14 @@
                 "id": "51e091c2-e741-4fb9-ad79-551d20d56b7e",
                 "resourcePath": "paths\\path_npc\\path_npc.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "b923a503-50d4-4f46-bbc1-071916426cbf",
+            "Value": {
+                "id": "f0a89ae0-a53b-44bc-aa98-79108aa8f6a2",
+                "resourcePath": "sprites\\SPR_EXAMPLE\\SPR_EXAMPLE.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -495,6 +567,14 @@
             }
         },
         {
+            "Key": "ec39de54-48f0-417c-92cc-b0347c5211de",
+            "Value": {
+                "id": "7220d918-3d15-4040-b0f8-244bb43389d2",
+                "resourcePath": "rooms\\rm_game2\\rm_game2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "eef84d2b-e01b-4682-b2d9-308f9832a349",
             "Value": {
                 "id": "92de33d8-855e-48a9-bd6a-ea87e4245fb6",
@@ -516,6 +596,22 @@
                 "id": "cb3d8dd2-3921-4fec-a6f0-7b58afdac469",
                 "resourcePath": "objects\\obj_eletricButton\\obj_eletricButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f827ddfc-91fd-47a5-9823-c98417115738",
+            "Value": {
+                "id": "1fb57121-4236-4bfd-9551-fb48f0d879a2",
+                "resourcePath": "rooms\\rM_upgrade\\rM_upgrade.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f932d03c-ad65-4115-998d-4fb5a509051a",
+            "Value": {
+                "id": "c30e9362-1a95-46d2-b4da-9c68dcfea067",
+                "resourcePath": "sprites\\spr_upgradBar\\spr_upgradBar.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

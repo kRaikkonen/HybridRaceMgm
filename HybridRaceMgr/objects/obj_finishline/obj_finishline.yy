@@ -2,7 +2,7 @@
     "id": "da9f29fc-e0fd-4590-b175-d5e87a38d3ca",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_line",
+    "name": "obj_finishline",
     "eventList": [
         
     ],

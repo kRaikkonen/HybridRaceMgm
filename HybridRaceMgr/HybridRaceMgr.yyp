@@ -570,7 +570,7 @@
             "Key": "da9f29fc-e0fd-4590-b175-d5e87a38d3ca",
             "Value": {
                 "id": "9647f950-b2da-4abd-b399-7303c15b1cc5",
-                "resourcePath": "objects\\obj_line\\obj_line.yy",
+                "resourcePath": "objects\\obj_finishline\\obj_finishline.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -626,7 +626,7 @@
             "Key": "f827ddfc-91fd-47a5-9823-c98417115738",
             "Value": {
                 "id": "1fb57121-4236-4bfd-9551-fb48f0d879a2",
-                "resourcePath": "rooms\\rM_upgrade\\rM_upgrade.yy",
+                "resourcePath": "rooms\\rm_upgrade\\rm_upgrade.yy",
                 "resourceType": "GMRoom"
             }
         },

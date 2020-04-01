@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-//score=0;
 
-
+if(ifstart > 4 ){
+	pathPvar=path_action_stop
+}

@@ -218,7 +218,7 @@
             "Key": "47087bd3-91fc-4564-a87e-427ec44a0f6b",
             "Value": {
                 "id": "fcdd8a7e-b1dc-4327-bc44-f7fc3dfb40bf",
-                "resourcePath": "objects\\obj_upgradeAObj\\obj_upgradeAObj.yy",
+                "resourcePath": "objects\\obj_upgradePlusButton\\obj_upgradePlusButton.yy",
                 "resourceType": "GMObject"
             }
         },

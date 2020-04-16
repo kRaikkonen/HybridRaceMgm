@@ -5,7 +5,7 @@ draw_set_font(font0);
 draw_text(36,82,"RESTART")
 
 draw_text(200,30,"Select a car first and then click the start button")
-draw_text(200,50,"Use your stratge to win the race!")
+draw_text(200,50,"Use your strategy to win the race!")
 
 draw_text(191,453,"When another race car is ready in the pit,")
 

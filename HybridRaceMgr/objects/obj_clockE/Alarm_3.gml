@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-global.totallap++
-global.playerErestlap--
+ms1++;
+alarm[3] =5;

@@ -1,15 +1,18 @@
 /// @description Insert description here
 // You can write your code in this editor
-draw_set_font(font0);
 
-draw_text(36,82,"RESTART")
+draw_set_font(font1);
 
-draw_text(200,30,"Select a car first and then click the start button")
+
+draw_text(200,30,"Select a car first and then Double click the start button")
 draw_text(200,50,"Use your strategy to win the race!")
 
 draw_text(191,453,"When another race car is ready in the pit,")
 
 draw_text(191,473,"Double click the start button once the ongoing car cross the line")
+
+draw_set_font(font0);
+draw_text(36,82,"RESTART")
 
 draw_text(20,20,global.ifstart)
 

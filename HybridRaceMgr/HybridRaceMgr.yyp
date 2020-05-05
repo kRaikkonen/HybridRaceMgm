@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "9e79e05d-cf50-4fde-bf1f-ebed9349c760",
+            "Value": {
+                "id": "f651944f-7846-4799-af29-000f9ac43b37",
+                "resourcePath": "sounds\\Pim_Poy\\Pim_Poy.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "9f32c527-8563-4f6f-83eb-4f99180202bb",
             "Value": {
                 "id": "cd52b0a8-caa6-4851-a811-eea15ec4c5c7",
@@ -572,6 +580,14 @@
                 "id": "15160785-1524-4bbf-9f4e-e86aed552f6c",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ceceb790-5714-4c04-ad95-ee2f2699c3c1",
+            "Value": {
+                "id": "9a06ce2a-af39-4b84-a8c5-a2d0114c8aa4",
+                "resourcePath": "sounds\\Pim_Poy_Pocket\\Pim_Poy_Pocket.yy",
+                "resourceType": "GMSound"
             }
         },
         {

@@ -11,3 +11,4 @@ if(global.playerPrestlap==0){
 	instance_destroy();	
 }
 
+

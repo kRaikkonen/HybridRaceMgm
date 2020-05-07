@@ -23,13 +23,13 @@ globalvar playerHrestlap;
 playerHrestlap=6;
 
 globalvar npcPrestlap;
-npcPrestlap=8;
+npcPrestlap=3;
 
 globalvar npcErestlap;
 npcErestlap=6;
 
 globalvar npcHrestlap;
-npcHrestlap=6;
+npcHrestlap=3;
 
 globalvar playerPrestlap;
 playerPrestlap=8;

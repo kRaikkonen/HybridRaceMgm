@@ -1,10 +1,15 @@
 /// @description Insert description here
 // You can write your code in this editor
 global.totallap++
+
 //global.playerPrestlap--
 if((instance_exists(obj_playerE)!=0)||(instance_exists(obj_playerH)!=0))
 	{
 		instance_destroy(obj_playerP)
+		var py1 = path_get_point_y(pathPlayer, 27) - 55
+	var py2 = path_get_point_y(pathPlayer, 28) -40
+	path_change_point(pathPlayer,27, path_get_point_x(pathPlayer, 27),py1,2)
+	path_change_point(pathPlayer,28, path_get_point_x(pathPlayer, 28),py2,2)
 	}
 if((instance_exists(obj_clock)==0)){
 	instance_create_layer(761,74,"clock",obj_clock);}

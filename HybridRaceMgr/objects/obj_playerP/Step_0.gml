@@ -6,6 +6,9 @@ if(ifstart == 1){
 }
 
 
+
+
+
 if(global.totallap==20){
 	instance_destroy();	
 	

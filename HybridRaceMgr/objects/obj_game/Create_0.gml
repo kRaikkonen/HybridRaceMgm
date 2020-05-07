@@ -15,21 +15,25 @@ lockchoose=0;
 globalvar pathPvar;
 pathPvar=path_action_restart
 
+
+globalvar pathSvar;
+pathSvar=path_action_stop
+
 globalvar oic;
 oic=path_action_stop;
 
 
 globalvar playerHrestlap;
-playerHrestlap=6;
+playerHrestlap=8;
 
 globalvar npcPrestlap;
-npcPrestlap=3;
+npcPrestlap=10;
 
 globalvar npcErestlap;
 npcErestlap=6;
 
 globalvar npcHrestlap;
-npcHrestlap=3;
+npcHrestlap=7;
 
 globalvar playerPrestlap;
 playerPrestlap=8;
@@ -45,8 +49,7 @@ globalvar totallapN;
 totallapN=0;
 
 
-globalvar ifwin;
-ifwin=0;
+
 
 
 globalvar buttoncheck;
@@ -55,4 +58,12 @@ buttoncheck = 0;
 globalvar upgradePoint;
 upgradePoint=0;
 
+globalvar pEspd;
+pEspd	=	4.1;
+
+globalvar pHspd;
+pHspd	=	3.1;
+
+globalvar pPspd;
+pPspd=2.8;
 

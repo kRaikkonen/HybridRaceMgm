@@ -4,7 +4,7 @@
 
 if(ifstart == 1 ){
 	//lockchoose=1;
-	path_start(pathPlayer,3, global.pathPvar,1)
+	path_start(pathPlayer,pHspd, global.pathPvar,1)
 	
 }
 

@@ -5,7 +5,8 @@
     "name": "9dbdcc07-4d20-49c1-8f9c-a10a1935857a",
     "children": [
         "61032ebc-137a-4762-b2b9-51d89418b828",
-        "b8c78957-6e96-40d0-bfe9-a089071c6d0a"
+        "b8c78957-6e96-40d0-bfe9-a089071c6d0a",
+        "c20b2418-b896-4ab8-b1fe-ca401205d13d"
     ],
     "filterType": "GMPath",
     "folderName": "paths",

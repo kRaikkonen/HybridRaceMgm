@@ -2,7 +2,7 @@
 // You can write your code in this editor
 if(ifstart == 1){
 	//lockchoose=0;
-	path_start(pathPlayer,2.5, pathPvar,1)
+	path_start(pathPlayer,pPspd, pathPvar,1)
 }
 
 

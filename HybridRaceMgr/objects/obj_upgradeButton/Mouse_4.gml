@@ -1,9 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(room==rm_game){
-	room_goto(rm_upgrade)
-}
+audio_play_sound(ss,1,false)
+	room_goto(rm_FD)
 
-if(room==rm_upgrade){
-	room_goto(rm_game)
-}
+
+
+

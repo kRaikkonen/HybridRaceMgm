@@ -24,7 +24,7 @@ oic=path_action_stop;
 
 
 globalvar playerHrestlap;
-playerHrestlap=8;
+playerHrestlap=playerHrestlap1;
 
 globalvar npcPrestlap;
 npcPrestlap=10;
@@ -36,10 +36,10 @@ globalvar npcHrestlap;
 npcHrestlap=7;
 
 globalvar playerPrestlap;
-playerPrestlap=8;
+playerPrestlap=playerPrestlap1;
 
 globalvar playerErestlap;
-playerErestlap=6;
+playerErestlap=playerErestlap1;
 
 
 globalvar totallap;

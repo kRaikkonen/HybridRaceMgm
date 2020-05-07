@@ -1,5 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
+audio_play_sound(ss,0.5,false)
+
+
 if((instance_exists(obj_playerE)==1)&&(instance_exists(obj_playerP)==0)&&(instance_exists(obj_playerH)==0))
 	{
 		ifstart++;
@@ -17,7 +20,11 @@ if((instance_exists(obj_playerP)==1)&&(instance_exists(obj_playerE)==0)&&(instan
 		ifstart++;
 			ifstart1++;
 	}
+if(ifstart=1){
+audio_play_sound(ss2,0.5,false)
 
+}
+	
 	//if((instance_exists(obj_Enpc)==0)&&(instance_exists(obj_Pnpc)==0)&&(instance_exists(obj_Hnpc)==0))
 	//{instance_create_layer(700,451,"Instances_1",obj_Enpc)
 	//	}

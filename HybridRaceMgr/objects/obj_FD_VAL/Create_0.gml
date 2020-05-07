@@ -7,3 +7,8 @@ playerHrestlap1=2;
 
 globalvar playerPrestlap1;
 playerPrestlap1=2;
+
+globalvar weight;
+weight = 780
+
+

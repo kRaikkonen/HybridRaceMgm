@@ -13,8 +13,8 @@ if((instance_exists(obj_playerH)==0)&& lockchoose!=1){
 	
 	if(instance_exists(obj_playerE)=1||instance_exists(obj_playerP)=1)
 	{
-	var py1 = 424 + 55
-	var py2 = 424 + 40
+	var py1 = 424 + 50
+	var py2 = 424 + 35
 	path_change_point(pathPlayer,27, path_get_point_x(pathPlayer, 27),py1,60)
 	path_change_point(pathPlayer,28, path_get_point_x(pathPlayer, 28),py2,60)
 	}
